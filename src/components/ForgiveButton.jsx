@@ -38,7 +38,7 @@ function ForgiveButton() {
         <>
           <img src="giphy.gif" alt="" style={{ zIndex: 100, width: '100%' }} />
           <h2>Thank you, Dwarfy, I love you!! ❤️</h2>
-          <Link to="/">
+          <Link to="/sorry_roxy">
             <button>Go Back</button>
           </Link>
         </>
