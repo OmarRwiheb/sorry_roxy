@@ -12,7 +12,7 @@ function App() {
       <div className="App">
         <Clouds />
         <Routes>
-          <Route path="/" element={<Header />} />
+          <Route path="/sorry_roxy" element={<Header />} />
           <Route path="/fun-facts" element={<FunFacts />} />
           <Route path="/apology" element={<ApologySection />} />
           <Route path="/forgiveness" element={<ForgiveButton />} />
